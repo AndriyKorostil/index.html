@@ -1,0 +1,13 @@
+ .first_ul ul .box  {
+    color: skyblue;
+}
+.first_ul ul .first {
+    color: skyblue;
+}
+.first_ul  li .first_a {
+    color: red; }
+    .first_ul  li .body {
+        color: red;}
+ul + p  {
+    font-size: 24px;
+}
